@@ -1,0 +1,24 @@
+Name: Yemi Ajibade
+
+Email: yemiajibade17@gmail.com
+
+GitHub: https://github.com/yemi-ajibade
+
+LinkedIn: https://www.linkedin.com/in/yemi-ajibade/
+
+Project Description:
+This project is an analysis of Airbnb listings data, aimed at understanding market trends, pricing strategies, and guest satisfaction. It leverages data science techniques, including data cleaning, visualization, and machine learning, to extract insights and provide actionable recommendations for hosts and potential investors.
+
+Contributions:
+1. Data Collection: Gathered data from Airbnb's public listings using web scraping and API access.
+2. Data Cleaning: Processed raw data to handle missing values, normalize formats, and remove duplicates.
+3. Data Analysis: Conducted exploratory data analysis (EDA) to uncover trends and patterns in the dataset.
+4. Visualization: Created visual representations of data using libraries such as Matplotlib and Seaborn.
+5. Machine Learning: Built predictive models to forecast occupancy rates and pricing.
+6. Reporting: Compiled findings into comprehensive reports and presentations, highlighting key insights and recommendations.
+
+Special Thanks:
+- The Airbnb community for providing accessible data.
+- Open-source contributors for developing the tools and libraries utilized in this project.
+
+Date: May 19, 2024
