@@ -1,1 +1,1 @@
-This is the web static file
+This is the AirBnB web static Project
